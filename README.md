@@ -125,3 +125,12 @@ Professionally curated data. Clear documentation. Practical research value.
 This repository contains a limited evaluation preview. It does not grant permission to resell or redistribute IT Altitudes' original compilation or documentation. Underlying third-party information remains subject to its applicable source terms and rights.
 
 For questions about the dataset, please use the contact information provided on the product page.
+
+## Explore More Datasets from IT Altitudes Inc.
+
+- [OFAC Sanctions (SDN) Dataset](https://github.com/ITAltitudesDataset/ofac-sanctions-dataset-sample)
+- [US CRE Loan Maturity & Risk](https://github.com/ITAltitudesDataset/us-cre-loan-maturity-risk-dataset-preview)
+- [US Area Codes & Geographic Reference](https://github.com/ITAltitudesDataset/us-area-codes-dataset-preview)
+- [Geothermal Electricity Capacity](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset)
+
+**[Explore Our Complete Dataset Catalog](https://github.com/ITAltitudesDataset)**
