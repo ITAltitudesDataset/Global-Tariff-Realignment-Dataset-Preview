@@ -164,6 +164,19 @@ For questions about the dataset, please use the contact information provided on 
 
 ---
 
+## License & Liability Documentation
+
+- [Preview License & Usage Terms](LICENSE.md)
+- [Source Attribution & Liability Disclaimer](DISCLAIMER.md)
+
+This dataset is a static reference snapshot prepared for trade research and analytical use.
+
+Original USITC, CBP, and WTO source materials remain subject to their applicable rights and licensing requirements.
+
+**Important:** Commercial use or redistribution of certain WTO-derived materials may require separate authorization. IT Altitudes' license and liability disclaimer do not replace required source permissions.
+
+---
+
 ## Explore More Datasets from IT Altitudes Inc.
 
 - [OFAC Sanctions (SDN) Dataset](https://github.com/ITAltitudesDataset/ofac-sanctions-dataset-sample)
