@@ -231,6 +231,18 @@ Explore our sample dataset to review HTS classifications, exemption categories, 
 
 For source attribution and limitations, see our [Data Quality Report](DATA_QUALITY_REPORT.md).
 
+## Machine Learning Demonstration
+
+Explore our reproducible Global Tariff Realignment ML demonstration using Isolation Forest anomaly detection.
+
+The model analyzes tariff rates and changes from the policy-action preview, identifying statistically unusual observations.
+
+**[View ML Demonstration](ml_demo/README_ML_DEMO.md)**
+
+![Tariff ML Chart](ml_demo/tariff_ml_chart.png)
+
+*Educational demonstration only. Statistical anomalies do not establish tariff errors or predict future trade policy.*
+
 ### Why Choose the Complete Buyer Kit?
 
 The free 50-record preview demonstrates the dataset structure and available formats.
