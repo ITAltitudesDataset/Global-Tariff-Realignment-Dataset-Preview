@@ -1,0 +1,13 @@
+HS Code,Product Category,Previous Tariff (%),New Tariff (%),Tariff Change (%),Anomaly Score,Statistical Flag
+Annex I (various),Pharmaceuticals,0,100,100,-0.157525,Unusual
+Annex I (various),Pharmaceuticals,0,20,20,0.157603,Typical
+Annex I (various),Pharmaceuticals,0,15,15,0.205415,Typical
+Annex I (various),Pharmaceuticals,0,10,10,0.194239,Typical
+"Ch. 1-97 (broad, exemptions in Annex sheet)",Cross-Sector / Forced Labor Compliance,0,10,10,0.194239,Typical
+"Ch. 1-97 (broad, exemptions in Annex sheet)",Cross-Sector / Forced Labor Compliance,0,12.5,12.5,0.197735,Typical
+N/A (global surcharge),Cross-Sector / Global Surcharge,10,0,-10,-0.032885,Unusual
+3818.00.0020 / 0040 / 0045 / 0050 / 0091,Solar Products,0,15,15,0.205415,Typical
+3818.00.0020 / 0040 / 0045 / 0050 / 0091,Solar Products,0,10,10,0.194239,Typical
+Multiple (steel/aluminum/vehicles),Metals / Autos,0,25,25,0.13154,Typical
+"N/A (antidumping duty, pasta)",Food / Agriculture,92,2.26,-89.74,-0.172125,Unusual
+"N/A (broad, most products)",Cross-Sector,0,25,25,0.13154,Typical
