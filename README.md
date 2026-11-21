@@ -207,6 +207,30 @@ By bringing selected U.S. HTS references, WTO tariff indicators, and U.S. policy
 
 **Potential Buyer Value:** Provide an organized reference resource for educational and exploratory analytical work.
 
+## Dataset Preview & Visual Insights
+
+### Sample Data Preview
+
+![Global Tariff Dataset Preview](global_tariff_preview_screenshot.png)
+
+### HTS Exemption Category Distribution
+
+![Global Tariff Exemption Categories](global_tariff_exemption_chart.png)
+
+Explore our sample dataset to review HTS classifications, exemption categories, tariff rates, effective dates, and trade policy references.
+
+**Preview highlights:**
+- 60 populated HTS line-item records
+- 15 populated policy-action records
+- 17 fields in the HTS detail sheet
+- 7 exemption-category labels represented in the HTS sample
+
+**Note:** These visualizations represent the sample only, not the complete dataset. Historical tariff information must be checked against current official sources before operational use.
+
+**[View Complete Dataset Information](https://italtitudes.gumroad.com/l/iotszi)**
+
+For source attribution and limitations, see our [Data Quality Report](DATA_QUALITY_REPORT.md).
+
 ### Why Choose the Complete Buyer Kit?
 
 The free 50-record preview demonstrates the dataset structure and available formats.
